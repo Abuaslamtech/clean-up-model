@@ -5,6 +5,7 @@ import numpy as np
 from PIL import Image
 import io
 
+# start flask
 app = Flask(__name__)
 
 # Load the model
